@@ -14,7 +14,7 @@ To create a new private network, the following steps need to be followed:
 <img src="/img/products/private-network/tutorial/createNewPrivateNetwork1.png" alt="Create Private Network 1"/>
 </p>
 
-* First, select a data center region from the drop down menu. Note that only servers stored in the same data center region can be assinged to the same private network. After your selection, the list will update and show you all available servers in the selected region. 
+* First, select a data center region from the drop down menu. Note that only servers stored in the same data center region can be assigned to the same private network. After your selection, the list will update and show you all available servers in the selected region. 
 * Then, select those instances you want to add to the private network. Multiselect is possible, also a select all option is available. You can add up to 1022 servers to a private network. If you need a larger network size, please contact our support.   
 * Confirm your settings by hitting the button "Continue." You will be leaded to the following menu: 
 
